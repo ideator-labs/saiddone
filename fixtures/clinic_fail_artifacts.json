@@ -1,0 +1,9 @@
+[
+  {
+    "kind": "appointment",
+    "ref": "APT-88",
+    "status": "failed",
+    "when": null,
+    "source": "clinic_ehr"
+  }
+]

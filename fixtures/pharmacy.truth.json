@@ -1,0 +1,4 @@
+{
+  "trust_words": {"ok": ["rx-phone-1"], "phantom": [], "honest_fail": []},
+  "said_done": {"ok": [], "phantom": ["rx-phone-1"], "honest_fail": []}
+}

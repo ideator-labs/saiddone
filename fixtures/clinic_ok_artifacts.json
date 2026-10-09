@@ -1,0 +1,9 @@
+[
+  {
+    "kind": "appointment",
+    "ref": "APT-99",
+    "status": "confirmed",
+    "when": "2026-10-10",
+    "source": "clinic_ehr"
+  }
+]

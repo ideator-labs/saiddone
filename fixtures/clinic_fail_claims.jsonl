@@ -1,0 +1,1 @@
+{"claim_id":"clinic-fail-1","said_at":"2026-10-08T10:01:00-07:00","channel":"voice_agent","said_text":"I could not confirm booking APT-88.","claim_kind":"book_appointment","asserted_outcome":"failure","asserted_ref":"APT-88","asserted_when":null}

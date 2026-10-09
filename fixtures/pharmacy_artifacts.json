@@ -1,0 +1,9 @@
+[
+  {
+    "kind": "order",
+    "ref": "REF-RX-1001",
+    "status": "missing",
+    "when": null,
+    "source": "pharmacy_oms"
+  }
+]

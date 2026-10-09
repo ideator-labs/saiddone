@@ -1,0 +1,1 @@
+{"claim_id":"clinic-ok-1","said_at":"2026-10-08T11:30:00-07:00","channel":"voice_agent","said_text":"You're booked for appointment APT-99 on 2026-10-10.","claim_kind":"book_appointment","asserted_outcome":"success","asserted_ref":"APT-99","asserted_when":"2026-10-10"}

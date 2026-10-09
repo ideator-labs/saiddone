@@ -1,0 +1,9 @@
+[
+  {
+    "kind": "hold",
+    "ref": "APT-77",
+    "status": "hold",
+    "when": "2026-10-09",
+    "source": "clinic_ehr"
+  }
+]
